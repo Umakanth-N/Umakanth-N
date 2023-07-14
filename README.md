@@ -10,9 +10,8 @@
 
 - 💬 Ask me about **flutter, Html, CSS, JS , Python**
 
-- 📫 How to reach me **mr.umakanth.n@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 reach me **mr.umakanth.n@gmail.com**
 <p align="left">
 </p>
 
