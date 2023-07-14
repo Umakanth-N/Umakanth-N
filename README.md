@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umakanth-n" alt="umakanth-n" /></a> </p> -->
 
-- 🌱 I’m currently learning **flutter, Bootstrap,**
+- 🌱 I’m currently learning **flutter, Data Science,**
 
 - 💬 Ask me about **flutter, Html, CSS, JS , Python**
 
