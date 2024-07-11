@@ -6,9 +6,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umakanth-n" alt="umakanth-n" /></a> </p> -->
 
-- 🌱 I’m currently learning **flutter, Data Science,**
+- 🌱 I’m currently going with ** Jr.Data Analyist, Jr.Data Engineer, Flutter application developmant, **
 
-- 💬 Ask me about **flutter, Html, CSS, JS , Python**
+- 💬 Ask me about ** Python, BI tools, ML, flutter, Html, CSS, JS **
 
 <h3 align="left">Connect with me:</h3>
 - 📫 reach me **mr.umakanth.n@gmail.com**
